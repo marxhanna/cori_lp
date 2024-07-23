@@ -19,9 +19,9 @@
 		/*	Modal Window
 		/*----------------------------------------------------*/
 			
-		/*setTimeout(function () {
+		setTimeout(function () {
 		    $(".modal:not(.auto-off)").modal("show");
-		},3600);*/
+		},3600);
 				
 	});
 
